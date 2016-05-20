@@ -1,0 +1,113 @@
+﻿  MainForm.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstddef(18): error C2039: 'ptrdiff_t': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstddef(18): error C2873: 'ptrdiff_t': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(18): error C2039: 'div_t': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(18): error C2873: 'div_t': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(18): error C2039: 'ldiv_t': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(18): error C2873: 'ldiv_t': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(19): error C2039: 'abort': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(19): error C2873: 'abort': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(19): error C2039: 'abs': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(19): error C2873: 'abs': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(20): error C2039: 'atof': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(20): error C2873: 'atof': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(20): error C2039: 'atoi': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(20): error C2873: 'atoi': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(20): error C2039: 'atol': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(20): error C2873: 'atol': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(21): error C2039: 'bsearch': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(21): error C2873: 'bsearch': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(21): error C2039: 'calloc': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(21): error C2873: 'calloc': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(21): error C2039: 'div': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(21): error C2873: 'div': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(22): error C2039: 'exit': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(22): error C2873: 'exit': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(22): error C2039: 'free': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(22): error C2873: 'free': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(23): error C2039: 'labs': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(23): error C2873: 'labs': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(23): error C2039: 'ldiv': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(23): error C2873: 'ldiv': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(23): error C2039: 'malloc': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(23): error C2873: 'malloc': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(24): error C2039: 'mblen': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(24): error C2873: 'mblen': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(24): error C2039: 'mbstowcs': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(24): error C2873: 'mbstowcs': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(24): error C2039: 'mbtowc': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(24): error C2873: 'mbtowc': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(25): error C2039: 'qsort': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(25): error C2873: 'qsort': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(25): error C2039: 'rand': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(25): error C2873: 'rand': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(25): error C2039: 'realloc': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(25): error C2873: 'realloc': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(26): error C2039: 'srand': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(26): error C2873: 'srand': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(26): error C2039: 'strtod': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(26): error C2873: 'strtod': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(26): error C2039: 'strtol': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(26): error C2873: 'strtol': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(27): error C2039: 'strtoul': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(27): error C2873: 'strtoul': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(28): error C2039: 'wcstombs': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(28): error C2873: 'wcstombs': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(28): error C2039: 'wctomb': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(28): error C2873: 'wctomb': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(30): error C2039: 'lldiv_t': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(30): error C2873: 'lldiv_t': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(33): error C2039: 'getenv': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(33): error C2873: 'getenv': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(34): error C2039: 'system': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(34): error C2873: 'system': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(37): error C2039: 'atoll': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(37): error C2873: 'atoll': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(37): error C2039: 'llabs': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(37): error C2873: 'llabs': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(37): error C2039: 'lldiv': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(37): error C2873: 'lldiv': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(38): error C2039: 'strtof': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(38): error C2873: 'strtof': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(38): error C2039: 'strtold': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(38): error C2873: 'strtold': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(39): error C2039: 'strtoll': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(39): error C2873: 'strtoll': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(39): error C2039: 'strtoull': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(39): error C2873: 'strtoull': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(41): error C2039: '_Exit': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(41): error C2873: '_Exit': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(41): error C2039: 'at_quick_exit': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(41): error C2873: 'at_quick_exit': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(41): error C2039: 'quick_exit': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(41): error C2873: 'quick_exit': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xstddef(524): error C2039: 'hash': is not a member of 'std'
+  predefined C++ types (compiler internal)(208): note: see declaration of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xstddef(524): error C2873: 'hash': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\type_traits(1068): error C2039: 'add_const': is not a member of 'std'
+  predefined C++ types (compiler internal)(208): note: see declaration of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\type_traits(1068): error C2873: 'add_const': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\type_traits(1069): error C2039: 'add_cv': is not a member of 'std'
+  predefined C++ types (compiler internal)(208): note: see declaration of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\type_traits(1069): error C2873: 'add_cv': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\type_traits(1070): error C2039: 'add_pointer': is not a member of 'std'
+  predefined C++ types (compiler internal)(208): note: see declaration of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\type_traits(1070): error C2873: 'add_pointer': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\type_traits(1071): error C2039: 'add_volatile': is not a member of 'std'
+  predefined C++ types (compiler internal)(208): note: see declaration of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\type_traits(1071): error C2873: 'add_volatile': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\type_traits(1072): error C2039: 'aligned_storage': is not a member of 'std'
+  predefined C++ types (compiler internal)(208): note: see declaration of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\type_traits(1072): error C2873: 'aligned_storage': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\type_traits(1073): error C2039: 'alignment_of': is not a member of 'std'
+  predefined C++ types (compiler internal)(208): note: see declaration of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\type_traits(1073): error C2873: 'alignment_of': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\type_traits(1074): error C2039: 'conditional': is not a member of 'std'
+  predefined C++ types (compiler internal)(208): note: see declaration of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\type_traits(1074): error C2873: 'conditional': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\type_traits(1075): error C2039: 'decay': is not a member of 'std'
+  predefined C++ types (compiler internal)(208): note: see declaration of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\type_traits(1075): error C2873: 'decay': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\type_traits(1076): error C2039: 'enable_if': is not a member of 'std'
+  predefined C++ types (compiler internal)(208): note: see declaration of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\type_traits(1076): fatal error C1003: error count exceeds 100; stopping compilation

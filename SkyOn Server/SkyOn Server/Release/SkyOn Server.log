@@ -1,0 +1,20 @@
+﻿  SkyOn Server.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0501 to the compiler command line; or
+  - add _WIN32_WINNT=0x0501 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0501 (i.e. Windows XP target).
+c:\users\gordon kennedy\documents\visual studio 2015\projects\skyon server\skyon server\Server.h(63): warning C4101: 'e': unreferenced local variable
+C:\Users\Gordon Kennedy\Documents\Mobile\Flexa\boost_1_60_0\boost_1_60_0\boost/asio/impl/write.hpp(49): error C2228: left of '.write_some' must have class/struct/union
+  C:\Users\Gordon Kennedy\Documents\Mobile\Flexa\boost_1_60_0\boost_1_60_0\boost/asio/impl/write.hpp(49): note: type is 'boost::asio::basic_stream_socket<boost::asio::ip::tcp,boost::asio::stream_socket_service<Protocol>> '
+          with
+          [
+              Protocol=boost::asio::ip::tcp
+          ]
+  C:\Users\Gordon Kennedy\Documents\Mobile\Flexa\boost_1_60_0\boost_1_60_0\boost/asio/impl/write.hpp(49): note: did you intend to use '->' instead?
+  c:\users\gordon kennedy\documents\visual studio 2015\projects\skyon server\skyon server\Server.h(61): note: see reference to function template instantiation 'size_t boost::asio::write<boost::asio::ip::tcp::socket*,boost::asio::const_buffers_1,boost::asio::detail::transfer_all_t>(SyncWriteStream &,const ConstBufferSequence &,CompletionCondition,boost::system::error_code &)' being compiled
+          with
+          [
+              SyncWriteStream=boost::asio::ip::tcp::socket *,
+              ConstBufferSequence=boost::asio::const_buffers_1,
+              CompletionCondition=boost::asio::detail::transfer_all_t
+          ]
