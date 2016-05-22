@@ -1,0 +1,2 @@
+Use this command to build Boost libraries static for using with SkyOn:
+bjam --build-type=minimal msvc stage --without-python runtime-link=static link=static threading=multi variant=release
